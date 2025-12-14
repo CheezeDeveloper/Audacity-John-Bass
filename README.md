@@ -9,7 +9,7 @@ This is a port of the **John Bass** JSFX from REAPER, adapted specifically for A
 
 ### 🔗 REAPER Version
 Using REAPER? Check out the original JSFX script here:
-[**John Bass for REAPER**](LINK_TO_OTHER_REPO_HERE)
+[**John Bass for REAPER**](https://github.com/CheezeDeveloper/REAPER-John-Bass)
 
 ---
 
